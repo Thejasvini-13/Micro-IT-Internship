@@ -1,4 +1,4 @@
-To-Do Pro 📝✨
+To-Do Ticky 📝✨
 A clean and professional To-Do List app built with React & Vite. Organize your tasks efficiently with a smooth, responsive UI powered by React Router and Context API. Styled with Tailwind CSS for a modern look.
 
 🚀 Get Started
